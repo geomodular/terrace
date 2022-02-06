@@ -1,0 +1,12 @@
+
+Server
+-----+
+     / Address
+     | host = localhost
+     | port = 8080
+     |
+     | Nodes
+     +-----+
+           | pc1 = 127.9.9.1
+           | pc2 = 127.9.9.2
+-----------+
